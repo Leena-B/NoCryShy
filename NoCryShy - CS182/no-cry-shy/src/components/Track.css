@@ -1,0 +1,19 @@
+.deleteButton {
+	color: red;
+	position:absolute;
+    right: 20px;
+    top: 60px;
+}
+.editButton {
+    position:absolute;
+    left: 20px;
+    top: 60px;
+}
+
+.footer {
+	padding: 10px;
+	text-align: center;
+	font-size: 15px;
+}
+
+

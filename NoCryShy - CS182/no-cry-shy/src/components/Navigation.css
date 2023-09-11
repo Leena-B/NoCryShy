@@ -1,0 +1,24 @@
+.Navigation {
+	margin-bottom: 10px;
+}
+
+.navBarItem {
+  margin: 7px;
+}
+
+.logo {
+  margin-right: 15px;
+}
+
+.header {
+	font-weight: bold;
+}
+
+.center {
+	width: auto;
+	left: 50%;
+	transform: translateX(-50%);
+	position: absolute;
+	text-align: center;
+}
+
