@@ -3,11 +3,12 @@
 No Cry Shy is a web application that allows users to keep track of their cries and connect with friends. Users can log details about their cry session, including their location, the date and time, the length and severity, the reason, the trigger, and how they feel. Users will also be able to optionally share these details and photos with their friends, creating a social component will allow users to share their feelings and react to others’ cry sessions. 
 
 ## Example "Cry Entry"
-<img width="200" alt="Screenshot 2023-09-11 at 3 12 49 PM" src="https://github.com/Leena-B/NoCryShy/assets/68488140/9fd04f80-2e24-4f3c-ab39-adb0bba22027">
+<img width="300" alt="Screenshot 2023-09-11 at 3 12 49 PM" src="https://github.com/Leena-B/NoCryShy/assets/68488140/9fd04f80-2e24-4f3c-ab39-adb0bba22027">
 
 ## Entry Form
-## Summary<img width="300" alt="Screenshot 2023-09-11 at 3 12 31 PM" src="https://github.com/Leena-B/NoCryShy/assets/68488140/2297ce24-7c8c-4a9f-9d78-7c2541c1d220">
+<img width="450" alt="Screenshot 2023-09-11 at 3 12 31 PM" src="https://github.com/Leena-B/NoCryShy/assets/68488140/2297ce24-7c8c-4a9f-9d78-7c2541c1d220">
 
+## Summary
 We all need a good cry every now and then. Crying relieves pain and stress and helps regulate our emotions. Keeping track of our cries can give us the chance to self-reflect and create bonds with others over our shared humanity.
 
 No Cry Shy is a web application that allows us to do that: a tool for both self-reflection and connection. This tool will consist of two main components: personal tracking and social interaction. The tracking component will allow users to record details about their cry session. These details include their location, the date and time, the length and severity, the reason, the trigger, and how they feel. Recording these details over time will hopefully allow users to identify patterns and react accordingly. The social component will allow users to share experiences with close friends and react to others’ experiences. Users will be able to stay connected with friends, build empathy, and support one another.
